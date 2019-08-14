@@ -16,7 +16,7 @@ sudo npm install -g coffee
 sudo apt install coffeescript
 
 
-./compile.sh
+
 
 cd ..
 
